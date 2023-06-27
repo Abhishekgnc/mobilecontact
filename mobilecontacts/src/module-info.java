@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sasit
+ *
+ */
+module mobilecontacts {
+}
